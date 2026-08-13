@@ -2,11 +2,7 @@
 
 ## Project Overview
 
-The official Capella website ([https://mbse-capella.org/](https://mbse-capella.org/)) hosts a collection of non-English landing pages, accessible via the language links at the footer of the main homepage. Rather than duplicating the full extent of the main English site, these localized pages serve as condensed, summarized versions of the content. This Thai translation project is designed to be integrated into this existing multilingual framework.
-
-To expedite the development process, the Spanish language webpage was utilized as the structural template for the Thai translation. 
-
-This approach is intended to assist the Capella web administration team in reviewing the Thai structure and content more efficiently. During integration, administrators can simply open the `ThaiVersion_CapellaWebsiteTranslation.html` file locally and copy the elements directly into the production environment.
+The official Capella website ([https://mbse-capella.org/](https://mbse-capella.org/)) hosts a collection of non-English landing pages, accessible via the language links at the footer of the main homepage. Rather than duplicating the full extent of the main English site, these localized pages serve as condensed, summarized versions of the content.
 
 ---
 
