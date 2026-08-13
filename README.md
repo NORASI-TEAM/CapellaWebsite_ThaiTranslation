@@ -4,7 +4,9 @@
 
 The official Capella website ([https://mbse-capella.org/](https://mbse-capella.org/)) hosts a collection of non-English landing pages, accessible via the language links at the footer of the main homepage. Rather than duplicating the full extent of the main English site, these localized pages serve as condensed, summarized versions of the content. This Thai translation project is designed to be integrated into this existing multilingual framework.
 
-To expedite the development process, the Spanish language webpage was utilized as the structural template for the Thai translation. This approach is intended to assist the Capella web administration team in reviewing the Thai structure and content more efficiently. During integration, administrators can simply open the `ThaiVersion_CapellaWebsiteTranslation.html` file locally and copy the elements directly into the production environment.
+To expedite the development process, the Spanish language webpage was utilized as the structural template for the Thai translation. 
+
+This approach is intended to assist the Capella web administration team in reviewing the Thai structure and content more efficiently. During integration, administrators can simply open the `ThaiVersion_CapellaWebsiteTranslation.html` file locally and copy the elements directly into the production environment.
 
 ---
 
@@ -15,14 +17,22 @@ To expedite the development process, the Spanish language webpage was utilized a
 The complete Thai web text is provided within the following file.
 
 ```
+Viewing the Thai content:
 ThaiVersion_CapellaWebsiteTranslation.html
 ```
 
 It has been structured and formatted to ensure a straightforward copy-and-paste process.
 
-### Thai Content for the 4-page Arcadia guide (__English version is preferred by most Thai users__)
+### Thai Content for the 4-page Arcadia guide
 
-For the current iteration, the Thai webpage can direct users to the original English version of the 4-page Arcadia guide. This strategy ensures Thai readers can familiarize themselves with the foundational concepts in their original language which is English, facilitating a more intuitive experience when utilizing the methodology. This decision influenced by several users of Capella/Arcadia in Thailand and feedback from NORASI Team adoption team.
+For the current iteration, the Thai webpage can direct users to the original English version of the 4-page Arcadia guide (https://mbse-capella.org/resources/Datasheet_Arcadia.pdf). 
+
+This strategy ensures Thai readers can familiarize themselves with the foundational concepts in their original language which is English, facilitating a more intuitive experience when utilizing the methodology. This decision influenced by several users of Capella/Arcadia in Thailand and feedback from NORASI Team adoption team.
+
+```
+Decision:
+Most Thai users prefer the English version of the 4-page Arcadia guide.
+```
 
 ### Thai Content for Images
 
