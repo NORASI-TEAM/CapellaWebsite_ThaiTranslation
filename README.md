@@ -13,7 +13,6 @@ The official Capella website ([https://mbse-capella.org/](https://mbse-capella.o
 The complete Thai web text is provided within the following file.
 
 ```
-Viewing the Thai content:
 ThaiVersion_CapellaWebsiteTranslation.html
 ```
 
@@ -26,7 +25,6 @@ For the current iteration, the Thai webpage can direct users to the original Eng
 This strategy ensures Thai readers can familiarize themselves with the foundational concepts in their original language which is English, facilitating a more intuitive experience when utilizing the methodology. This decision influenced by several users of Capella/Arcadia in Thailand and feedback from NORASI Team adoption team.
 
 ```
-Decision:
 Most Thai users prefer the English version of the 4-page Arcadia guide.
 ```
 
@@ -36,46 +34,46 @@ The website template incorporates four informational images that currently featu
 
 | Image Source | Original Text (Spanish) | English Translation | Thai Translation |
 | --- | --- | --- | --- |
-| **img1.png** | Análisis y Modelado de Necesidades | Analysis and Needs Modeling | การวิเคราะห์และการสร้างแบบจำลองความต้องการ |
-| **img1.png** | Requisitos Ingeniería | Requirements Engineering | วิศวกรรมความต้องการ |
-| **img1.png** | Edificio de arquitectura | Architecture Building (Creation) | การสร้างสถาปัตยกรรม |
-| **img1.png** | formaliza | formalizes | ทำให้เป็นทางการ |
-| **img1.png** | Define la necesidad del sistema a satisfacer. | Defines the system need to satisfy. | กำหนดความต้องการของระบบที่จะตอบสนอง |
-| **img1.png** | satisface | satisfies | ตอบสนอง / ทำให้พอใจ |
-| **img1.png** | valida la usabilidad | validates usability | ตรวจสอบความสามารถในการใช้งาน |
-| **img1.png** | especifica | specifies | ระบุ / กำหนด |
-| **img1.png** | Comprueba la viabilidad | Checks feasibility | ตรวจสอบความเป็นไปได้ |
-| **img2.jpg** | Compartidos y Útiles Modelos de Arquitectura | Shared and Useful Architecture Models | แบบจำลองสถาปัตยกรรมที่ใช้ร่วมกันและมีประโยชน์ |
-| **img2.jpg** | Clientes | Clients / Customers | ลูกค้า |
-| **img2.jpg** | Línea de Productos Mánager | Product Line Manager | ผู้จัดการสายผลิตภัณฑ์ |
-| **img2.jpg** | Gestor de Requisitos | Requirements Manager | ผู้จัดการความต้องการ |
-| **img2.jpg** | Ingenieros de Logística | Logistics Engineers | วิศวกรโลจิสติกส์ |
-| **img2.jpg** | Otros | Others | อื่นๆ |
-| **img2.jpg** | Mánager de IVVQ | IVVQ Manager | ผู้จัดการ IVVQ |
-| **img2.jpg** | SW/HW Diseñadores y Desarrolladores | SW/HW Designers and Developers | นักออกแบบและนักพัฒนาซอฟต์แวร์/ฮาร์ดแวร์ |
-| **img2.jpg** | Ingenieros de Seguridad, Desempeño, Interfaces... | Security, Performance, Interfaces Engineers... | วิศวกรด้านความปลอดภัย ประสิทธิภาพ อินเทอร์เฟซ... |
-| **img2.jpg** | Autoridad de los Arquitectos de Diseño | Design Architects Authority | ผู้มีอำนาจด้านสถาปนิกออกแบบ |
-| **img3.jpg** | Entendimiento de las necesidades | Understanding of needs | ความเข้าใจในความต้องการ |
-| **img3.jpg** | Solución del diseño arquitectural | Architectural design solution | โซลูชันการออกแบบสถาปัตยกรรม |
-| **img3.jpg** | Puntos de Vista | Viewpoints | มุมมอง |
-| **img3.jpg** | Requisitos | Requirements | ความต้องการ |
-| **img3.jpg** | Análisis Operacional | Operational Analysis | การวิเคราะห์การดำเนินงาน |
-| **img3.jpg** | Lo que los usuarios del sistema necesitan conseguir | What system users need to achieve | สิ่งที่ผู้ใช้ระบบต้องการบรรลุ |
-| **img3.jpg** | Necesidades Funcionales y No Funcionales | Functional and Non-Functional Needs | ความต้องการเชิงฟังก์ชันและไม่ใช่เชิงฟังก์ชัน |
-| **img3.jpg** | Lo que el sistema debe hacer para los usuarios | What the system must do for the users | สิ่งที่ระบบต้องทำให้กับผู้ใช้ |
-| **img3.jpg** | Arquitectura Lógica | Logical Architecture | สถาปัตยกรรมเชิงตรรกะ |
-| **img3.jpg** | Cómo funcionará el sistema para cumplir con las expectativas | How the system will work to meet expectations | ระบบจะทำงานอย่างไรเพื่อตอบสนองความคาดหวัง |
-| **img3.jpg** | Arquitectura Física | Physical Architecture | สถาปัตยกรรมทางกายภาพ |
-| **img3.jpg** | Cómo se desarrollará y construirá el sistema | How the system will be developed and built | ระบบจะได้รับการพัฒนาและสร้างขึ้นอย่างไร |
-| **img3.jpg** | A: Actividad Operacional | A: Operational Activity | A: กิจกรรมการดำเนินงาน |
-| **img3.jpg** | F: Función | F: Function | F: ฟังก์ชัน |
-| **img3.jpg** | C: Componente | C: Component | C: ส่วนประกอบ |
-| **img3.jpg** | Buses | Buses | บัส (ระบบส่งข้อมูล) |
-| **img3.jpg** | Procesadores | Processors | โปรเซสเซอร์ (หน่วยประมวลผล) |
-| **img4.png** | Modelo de sistema consistente e integrado | Consistent and integrated system model | แบบจำลองระบบที่สอดคล้องและบูรณาการ |
-| **img4.png** | Vistas adaptadas a determinados problemas | Views adapted to specific problems | มุมมองที่ปรับให้เข้ากับปัญหาเฉพาะ |
-| **img4.png** | Intercambios con otras herramientas de ingeniería | Exchanges with other engineering tools | การแลกเปลี่ยนกับเครื่องมือวิศวกรรมอื่นๆ |
-| **img4.png** | Producción de entregables | Production of deliverables | การผลิตสิ่งที่ต้องส่งมอบ |
-| **img4.png** | Derivaciones de la arquitectura | Architecture derivations | การสืบทอดสถาปัตยกรรม |
-| **img4.png** | Reutilización de la arquitectura | Architecture reuse | การนำสถาปัตยกรรมกลับมาใช้ใหม่ |
-| **img4.png** | Validación de la arquitectura | Architecture validation | การตรวจสอบความถูกต้องของสถาปัตยกรรม |
+| **img1** | Análisis y Modelado de Necesidades | Analysis and Needs Modeling | การวิเคราะห์และการสร้างแบบจำลองความต้องการ |
+| **img1** | Requisitos Ingeniería | Requirements Engineering | วิศวกรรมความต้องการ |
+| **img1** | Edificio de arquitectura | Architecture Building (Creation) | การสร้างสถาปัตยกรรม |
+| **img1** | formaliza | formalizes | ทำให้เป็นทางการ |
+| **img1** | Define la necesidad del sistema a satisfacer. | Defines the system need to satisfy. | กำหนดความต้องการของระบบที่จะตอบสนอง |
+| **img1** | satisface | satisfies | ตอบสนอง / ทำให้พอใจ |
+| **img1** | valida la usabilidad | validates usability | ตรวจสอบความสามารถในการใช้งาน |
+| **img1** | especifica | specifies | ระบุ / กำหนด |
+| **img1** | Comprueba la viabilidad | Checks feasibility | ตรวจสอบความเป็นไปได้ |
+| **img2** | Compartidos y Útiles Modelos de Arquitectura | Shared and Useful Architecture Models | แบบจำลองสถาปัตยกรรมที่ใช้ร่วมกันและมีประโยชน์ |
+| **img2** | Clientes | Clients / Customers | ลูกค้า |
+| **img2** | Línea de Productos Mánager | Product Line Manager | ผู้จัดการสายผลิตภัณฑ์ |
+| **img2** | Gestor de Requisitos | Requirements Manager | ผู้จัดการความต้องการ |
+| **img2** | Ingenieros de Logística | Logistics Engineers | วิศวกรโลจิสติกส์ |
+| **img2** | Otros | Others | อื่นๆ |
+| **img2** | Mánager de IVVQ | IVVQ Manager | ผู้จัดการ IVVQ |
+| **img2** | SW/HW Diseñadores y Desarrolladores | SW/HW Designers and Developers | นักออกแบบและนักพัฒนาซอฟต์แวร์/ฮาร์ดแวร์ |
+| **img2** | Ingenieros de Seguridad, Desempeño, Interfaces... | Security, Performance, Interfaces Engineers... | วิศวกรด้านความปลอดภัย ประสิทธิภาพ อินเทอร์เฟซ... |
+| **img2** | Autoridad de los Arquitectos de Diseño | Design Architects Authority | ผู้มีอำนาจด้านสถาปนิกออกแบบ |
+| **img3** | Entendimiento de las necesidades | Understanding of needs | ความเข้าใจในความต้องการ |
+| **img3** | Solución del diseño arquitectural | Architectural design solution | โซลูชันการออกแบบสถาปัตยกรรม |
+| **img3** | Puntos de Vista | Viewpoints | มุมมอง |
+| **img3** | Requisitos | Requirements | ความต้องการ |
+| **img3** | Análisis Operacional | Operational Analysis | การวิเคราะห์การดำเนินงาน |
+| **img3** | Lo que los usuarios del sistema necesitan conseguir | What system users need to achieve | สิ่งที่ผู้ใช้ระบบต้องการบรรลุ |
+| **img3** | Necesidades Funcionales y No Funcionales | Functional and Non-Functional Needs | ความต้องการเชิงฟังก์ชันและไม่ใช่เชิงฟังก์ชัน |
+| **img3** | Lo que el sistema debe hacer para los usuarios | What the system must do for the users | สิ่งที่ระบบต้องทำให้กับผู้ใช้ |
+| **img3** | Arquitectura Lógica | Logical Architecture | สถาปัตยกรรมเชิงตรรกะ |
+| **img3** | Cómo funcionará el sistema para cumplir con las expectativas | How the system will work to meet expectations | ระบบจะทำงานอย่างไรเพื่อตอบสนองความคาดหวัง |
+| **img3** | Arquitectura Física | Physical Architecture | สถาปัตยกรรมทางกายภาพ |
+| **img3** | Cómo se desarrollará y construirá el sistema | How the system will be developed and built | ระบบจะได้รับการพัฒนาและสร้างขึ้นอย่างไร |
+| **img3** | A: Actividad Operacional | A: Operational Activity | A: กิจกรรมการดำเนินงาน |
+| **img3** | F: Función | F: Function | F: ฟังก์ชัน |
+| **img3** | C: Componente | C: Component | C: ส่วนประกอบ |
+| **img3** | Buses | Buses | บัส (ระบบส่งข้อมูล) |
+| **img3** | Procesadores | Processors | โปรเซสเซอร์ (หน่วยประมวลผล) |
+| **img4** | Modelo de sistema consistente e integrado | Consistent and integrated system model | แบบจำลองระบบที่สอดคล้องและบูรณาการ |
+| **img4** | Vistas adaptadas a determinados problemas | Views adapted to specific problems | มุมมองที่ปรับให้เข้ากับปัญหาเฉพาะ |
+| **img4** | Intercambios con otras herramientas de ingeniería | Exchanges with other engineering tools | การแลกเปลี่ยนกับเครื่องมือวิศวกรรมอื่นๆ |
+| **img4** | Producción de entregables | Production of deliverables | การผลิตสิ่งที่ต้องส่งมอบ |
+| **img4** | Derivaciones de la arquitectura | Architecture derivations | การสืบทอดสถาปัตยกรรม |
+| **img4** | Reutilización de la arquitectura | Architecture reuse | การนำสถาปัตยกรรมกลับมาใช้ใหม่ |
+| **img4** | Validación de la arquitectura | Architecture validation | การตรวจสอบความถูกต้องของสถาปัตยกรรม |
